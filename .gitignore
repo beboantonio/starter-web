@@ -1,2 +1,4 @@
 tobedeleted.txt
 log/
+*.swp
+simple_*
